@@ -1,4 +1,4 @@
- 👋 Hi, I’m Saddam Janjua
+- 👋 Hi, I’m Saddam Janjua
 - 👀 I’m interested in Artifical Intelligence and Android App Development
 - 🌱 I’m currently learning Artificial Intelligence and Android App Development and working as Android Developer in Xyron Technologies pvt ltd, Islamabad, Pakistan
 - 📫  You can email me at saddam.janjua2001@gmail.com
